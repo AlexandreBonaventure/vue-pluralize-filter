@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Pluralize filter for vue",
   "main": "dist/vue-pluralize-filter.js",
-  "module": "src/index.js",
   "directories": {
     "example": "example"
   },

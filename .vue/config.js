@@ -8,9 +8,6 @@ module.exports = {
   filename: {
     js: 'vue-pluralize-filter.js',
   },
-  babel: {
-    presets: ['env'],
-  },
   webpack: {
     output: {
       path: path.join(__dirname, '../dist'),
